@@ -1,1 +1,1 @@
-print "hello from go"
+print "hello from application2"
